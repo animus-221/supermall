@@ -14,6 +14,10 @@
   #tab-bar{
     background-color: #f6f6f6;
     display: flex;
-    text-align: center;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    position: fixed;
+    box-shadow: 0px -1px 1px rgba(100,100,100,0.2) ;
   }
 </style>
